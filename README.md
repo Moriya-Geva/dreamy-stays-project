@@ -1,4 +1,4 @@
-# DreamyStays - Full Stack Vacation Apartment
+# DreamyStays - Vacation Apartment
 
 ## Project Overview  
 DreamyStays is a full stack web application for listing and managing vacation apartments.  
